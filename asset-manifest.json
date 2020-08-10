@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/justinhorn.name/wewerehere-firebase/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/justinhorn.name/wewerehere-firebase/static/js/main.bdac4bb4.chunk.js",
+    "main.js.map": "/justinhorn.name/wewerehere-firebase/static/js/main.bdac4bb4.chunk.js.map",
+    "runtime-main.js": "/justinhorn.name/wewerehere-firebase/static/js/runtime-main.44e1892b.js",
+    "runtime-main.js.map": "/justinhorn.name/wewerehere-firebase/static/js/runtime-main.44e1892b.js.map",
+    "static/js/2.3d6d6aa4.chunk.js": "/justinhorn.name/wewerehere-firebase/static/js/2.3d6d6aa4.chunk.js",
+    "static/js/2.3d6d6aa4.chunk.js.map": "/justinhorn.name/wewerehere-firebase/static/js/2.3d6d6aa4.chunk.js.map",
+    "index.html": "/justinhorn.name/wewerehere-firebase/index.html",
+    "precache-manifest.5cd2e0d4c9928f778a2e9a8556c975ca.js": "/justinhorn.name/wewerehere-firebase/precache-manifest.5cd2e0d4c9928f778a2e9a8556c975ca.js",
+    "service-worker.js": "/justinhorn.name/wewerehere-firebase/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/justinhorn.name/wewerehere-firebase/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.3d6d6aa4.chunk.js.LICENSE.txt": "/justinhorn.name/wewerehere-firebase/static/js/2.3d6d6aa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e1892b.js",
+    "static/js/2.3d6d6aa4.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.bdac4bb4.chunk.js"
+  ]
+}
